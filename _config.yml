@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Lenin Kamma"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/img2.jpg"
   bio              : "Data Science Portfolio"
   location         : "Houston, TX"
   email            :
