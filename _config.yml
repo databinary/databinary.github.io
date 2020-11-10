@@ -40,6 +40,7 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
+  github                 : "databinary"
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
@@ -286,4 +287,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
