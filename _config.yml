@@ -99,6 +99,7 @@ author:
   bio              : "Data Science Portfolio"
   location         : "Houston, TX"
   email            :
+  github           : "databinary"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
