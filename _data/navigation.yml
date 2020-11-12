@@ -2,6 +2,7 @@
 main:
   - title: "Machine Learning Projects"
     url: /machine-learning/
+  - title: "About"
     url: /about/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
