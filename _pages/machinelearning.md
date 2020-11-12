@@ -12,3 +12,7 @@ COVID Data Analysis
 Unemployment by County
 
 Chicago Crime Detection
+
+{% for post in site.posts %}
+  {% include archive-single.html %}
+{% endfor %}
