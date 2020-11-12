@@ -8,8 +8,9 @@ Texas Consumer Complaints
 
 Texas Department of Insurance (TDI) accepts written complaints against insurance companies, health maintenance organizations (HMOs), insurance agents or agencies, and other persons or entities regulated by TDI. Complaints generally involve such matters as claims and benefits, false advertising, misrepresentation of policies, and HMO quality of care1. In this paper, the author investigates the complaints from the TDI website, filed by consumers in the state of Texas to identify the reason and the type of complaints, research the insurance companies involved, and identify the resolution time for each type of complaint. This study also highlights the insurance problems that consumers are facing and predicts the dispute resolution period for different types of complaints and in various geographical zones of Texas.
 
+[Github Repository](https://github.com/databinary/TexasConsumerInsuranceComplaints/blob/master/README.md)
 
-[go to code](https://github.com/databinary/TexasConsumerInsuranceComplaints/blob/master/DSC680-TexasInsuranceComplaints.ipynb)
+[Python Code](https://github.com/databinary/TexasConsumerInsuranceComplaints/blob/master/DSC680-TexasInsuranceComplaints.ipynb)
 
 [Internet Complaints Information System](https://www.tdi.texas.gov/consumer/icis/index.html)
 
