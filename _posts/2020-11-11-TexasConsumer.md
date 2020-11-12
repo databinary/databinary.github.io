@@ -15,7 +15,7 @@ Limitations:
 The author of this study retrieved the data from the TDI website and it was observed that the last quarter of 2019 had a lower number of records compared to the last quarter of 2018. This study did not make any correlation between the number people insured and the number of complained in a particular zone. This research was done only based on the data available in the Texas Department of Insurance website.
 
 The code can be found at
-"https://github.com/databinary/TexasConsumerInsuranceComplaints/blob/master/DSC680-TexasInsuranceComplaints.ipynb"
+[code](https://github.com/databinary/TexasConsumerInsuranceComplaints/blob/master/DSC680-TexasInsuranceComplaints.ipynb)
 
 References
-Internet Complaints Information System, "https://www.tdi.texas.gov/consumer/icis/index.html"
+[Internet Complaints Information System](https://www.tdi.texas.gov/consumer/icis/index.html)
