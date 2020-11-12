@@ -5,4 +5,4 @@ permalink: /contact/
 author_profile: true
 comments: true
 ---
-[mailto](mailto:lenin672@hotmail.com)
+[Email](mailto:lenin672@hotmail.com)
