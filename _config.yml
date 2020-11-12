@@ -96,6 +96,7 @@ analytics:
 author:
   name             : "Lenin Kamma"
   avatar           : "images/img2.jpg"
+  width            : 100
   bio              : "Data Science Portfolio"
   location         : "Houston, TX"
   email            :
