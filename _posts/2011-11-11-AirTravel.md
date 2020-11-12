@@ -4,18 +4,26 @@ title:  ""
 date:   2020-11-11
 ---
 
-xxx
+Air Travel Safety
 
-Texas Department of Insurance (TDI) accepts written complaints against insurance companies, health maintenance organizations (HMOs), insurance agents or agencies, and other persons or entities regulated by TDI. Complaints generally involve such matters as claims and benefits, false advertising, misrepresentation of policies, and HMO quality of care1. In this paper, the author investigates the complaints from the TDI website, filed by consumers in the state of Texas to identify the reason and the type of complaints, research the insurance companies involved, and identify the resolution time for each type of complaint. This study also highlights the insurance problems that consumers are facing and predicts the dispute resolution period for different types of complaints and in various geographical zones of Texas.
+README.md
+AirtravelSafety
+Introduction
+Air travel has become an essential part of many people’s lives across the world. The number of commercial accidents worldwide has been on the decline since 1980, even as the total amount of air traffic has increased. With the Malaysian airline's accidents and the Boing max 737 crisis, there has been a lot of concern in the media about the safety of the airlines. In this repository the concerns of the media are addressed by diving into the statistics and comparing air travel with road travel to see which one is safer. This study is based on crash and airline statistics from The Aviation safety network, Federal aviation administration, National highway safety traffic administration, and the World Bank. As a part of this study, data analysis is done on fatality counts, passenger counts, and miles data.
 
-[Github Repository](https://github.com/databinary/TexasConsumerInsuranceComplaints/blob/master/README.md)
+Table of Contents
 
-[Python Code](https://github.com/databinary/TexasConsumerInsuranceComplaints/blob/master/DSC680-TexasInsuranceComplaints.ipynb)
+[Github Repository](https://github.com/databinary/AirtravelSafety)
 
-[Internet Complaints Information System](https://www.tdi.texas.gov/consumer/icis/index.html)
+[Python Code](https://github.com/databinary/AirtravelSafety/blob/master/Visualization%20Project-checkpoint.ipynb)
 
-Languages:
-Python
 
-Limitations:
-The author of this study retrieved the data from the TDI website and it was observed that the last quarter of 2019 had a lower number of records compared to the last quarter of 2018. This study did not make any correlation between the number people insured and the number of complained in a particular zone. This research was done only based on the data available in the Texas Department of Insurance website.
+Technologies
+
+Python 3.8
+
+R 3.6.3
+
+Tableau 2020.1
+
+PowerPoint
