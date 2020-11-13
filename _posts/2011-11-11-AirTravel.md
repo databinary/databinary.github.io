@@ -18,4 +18,4 @@ Technologies
 Python 3.8
 R 3.6.3
 Tableau 2020.1
-PowerPoint 
+PowerPoint  
