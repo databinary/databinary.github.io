@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  ""
-date:   2020-11-12
+date:   2020-11-15
 ---
 
 Marketing Promotion
@@ -17,4 +17,4 @@ Technologies
 
 Python 3.8
 R 3.6.3  
-Power Point 
+Power Point
