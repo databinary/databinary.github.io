@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  ""
-date:   2020-11-12
+date:   2020-11-19
 ---
 
 COVID data analysis
@@ -15,6 +15,6 @@ In this project the number of COVID cases is compared with the population densit
 Technologies
 
 Python 3.8
-R 3.6.3 
+R 3.6.3
 
 Power Point
