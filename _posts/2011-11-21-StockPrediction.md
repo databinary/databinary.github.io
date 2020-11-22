@@ -14,7 +14,7 @@ Shopify Stock prediction
 
 Tesla Stock Prediction
 
-![image-4](/images/TexasCons2.PNG){:class="img-responsive"}
+![image-4](/images/StockPred2.PNG){:class="img-responsive"}
 
 
 [GitHub Repository](https://github.com/databinary/MomentumStockPricePrediction)
