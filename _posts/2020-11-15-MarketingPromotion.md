@@ -6,8 +6,7 @@ date:   2020-11-15
 
 Marketing Promotion
 
-In this project, machine learning is used to improve the marketing promotion
-
+Use of machine to improve the marketing promotion
 
 [GitHub Repository](https://github.com/databinary/MarketingPromotion)
 
