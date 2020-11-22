@@ -10,13 +10,11 @@ Various prediction models are being in use today to predict long term stock pric
 
 Shopify Stock prediction
 
-![image-1](/images/StockPred1.PNG){:class="img-responsive"}
+![image-3](/images/StockPred1.PNG){:class="img-responsive"}
 
 Tesla Stock Prediction
 
-![image-2](/images/TexasCons2.PNG){:class="img-responsive"}
-
-
+![image-4](/images/TexasCons2.PNG){:class="img-responsive"}
 
 
 [GitHub Repository](https://github.com/databinary/MomentumStockPricePrediction)
